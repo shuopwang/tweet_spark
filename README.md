@@ -1,5 +1,7 @@
 # tweet_spark
 
+You can see the result at https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3720970161315096/2844018759966085/6059703217653741/latest.html
+
 Using the spark to analyze the Tweets which are in the format of JSON, based on databricks.  
 
 Using the RDD to find all the tags of tweets and show the top 10 tags in those tweets.  
